@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-1:\Users\dolinsky\gitReposity\Webinar2\jeden.txt: 
-=======
- 01
->>>>>>> e3f67ed025f35826a764cb7421930e95e2f648e7
-9999
-150
-131
+1
+2
+3
+4
+5
